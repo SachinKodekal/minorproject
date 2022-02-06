@@ -1,0 +1,2 @@
+# minorproject
+Image Detection
